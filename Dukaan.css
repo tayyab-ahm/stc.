@@ -1,0 +1,93 @@
+*{
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+body{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    height: 7vh;
+    cursor: pointer;
+}
+.Main-Heading{
+    padding-top: 2vh;
+    margin-left: 1vh;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.tagline{
+    margin-left: 38vh;
+    margin-bottom: 5vh;
+    margin-top: 0;
+    margin-right: 23vh;
+}
+.icons{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+.icons a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 8vh;
+    padding: 10px;
+    margin-top: 0;
+}
+.icons a:hover{
+    background-color: #40A2D8;
+}
+.home{
+    background-color: #40A2D8;
+}
+.img-1{
+    height: 50vh;
+    width: 50vh;
+}
+.img-2{
+    height: 50vh;
+    width: 50vh;
+    margin-left: 10px;
+}
+.img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.cutting{
+    height: 50vh;
+    width: 102vh;
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    margin-top: 5vh;
+    color: white;
+}
+footer a:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.footer {
+    margin-left: 3vh;
+    display: flex;
+}
+.footer a{
+    color: white;
+    text-decoration: none;
+    padding-top: 2vh;
+    margin-left: 3vh;
+}
+.contact{
+    margin-right: 3vh;
+}
+.hom{
+    padding-left: 20vh;
+}
